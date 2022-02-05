@@ -1,0 +1,39 @@
+body {
+	font-family: Arial, verdana, sans-serif;
+}
+
+h1 {
+	color: blue;
+}
+
+h2 {
+	color: blue;
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+	font-size: 15px;
+}
+
+a:hover {
+	color: green;
+	font-style: italic;
+}
+
+tr td a{
+	color: blue;
+}
+tr td a:hover{
+	color: blue;
+}
+th {
+	text-align: left;
+	color: white;
+	background-color: blue;
+}
+td {
+	padding-right: 5px;
+	color: black;
+	background-color: lightblue;
+}
